@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Cipher Text Application</string>
+    <string name="text">Text</string>
+    <string name="pls">Please enter your text</string>
+    <string name="opr">Encrypt</string>
+    <string name="encrypt">Encrypted Text</string>
+    <string name="copyright">Copyright ©2019 Muhammad Fauzi Maulana. All rights reserved.</string>
+</resources>
